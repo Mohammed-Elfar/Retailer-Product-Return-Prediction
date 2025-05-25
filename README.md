@@ -20,4 +20,4 @@ Ideal for improving inventory management and customer satisfaction
 
 7- Model Building: The model building process utilized a pipeline and cross-validation to train and test multiple models and choose best model, ensuring no data leakage and  effective model. A pipeline was established to preprocess data and integrate various models, maintaining a consistent workflow.
 
-8- Tuning: The model using fold cross-validation and grid search to optimize hyperparameters, achieving high accuracy and recall for deployment.
+8- Tuning: Tune The model using 5- cross-validation and grid search to optimize hyperparameters.
